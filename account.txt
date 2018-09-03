@@ -1,0 +1,32 @@
+Staging credentials: 
+
+Staging MID (Merchant ID)
+Girafe68174366979631
+
+Merchant Key
+dL3CNgXQU@jy9m0S
+
+Industry Type
+Retail
+
+
+
+Testing wallet details: 
+
+
+Mobile No.
+7777777777
+
+Password (Fixed)
+Paytm12345
+
+OTP (Fixed)
+489871
+
+
+
+Merchant Panel Login 
+
+https://staging-dashboard.paytm.com/
+9855069822
+Srihari23!
